@@ -265,7 +265,5 @@ public class VentanaTabla2 extends javax.swing.JInternalFrame {
     private javax.swing.JToolBar jToolBar1;
     // End of variables declaration//GEN-END:variables
 
-    private AbstractModeloTablaLibro AbstractMo0deloTablaLibro(ArrayList<Libro> lista) {
-        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
-    }
+   
 }
